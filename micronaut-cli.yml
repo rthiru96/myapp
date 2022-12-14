@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: api.rest
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-jdbc, graalvm, gradle, http-client, http-session, jackson-databind, jdbc-hikari, kotest, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, micronaut-build, netty-server, postgres, readme, shade, test-resources, yaml]
